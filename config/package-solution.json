@@ -1,0 +1,11 @@
+{
+  "solution": {
+    "name": "lang-web-part-client-side-solution",
+    "id": "8eee7327-a5d1-4720-8b90-e91926746f8d",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/lang-web-part.sppkg"
+  }
+}
